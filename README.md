@@ -1,9 +1,9 @@
 ## Hello, I´m Thalita 👋
 
 <div align="center">
-  <a href="https://github.com/ThiagoMiguel7">
-  <img height="167" src="https://github-readme-stats.vercel.app/api?username=ThiagoMiguel7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMiguel7&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/thalitaDomingos">
+  <img height="167" src="https://github-readme-stats.vercel.app/api?username=thalitaDomingos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaDomingos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalita-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
