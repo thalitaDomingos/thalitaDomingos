@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/thalitaDomingos">
-  <img height="167" src="https://github-readme-stats.vercel.app/api?username=ThiagoMiguel7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMiguel7&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="167" src="https://github-readme-stats.vercel.app/api?username=thalitaDomingos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaDomingos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalita-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -24,7 +24,7 @@
 </div>
 
 <!--
- <img align="center" alt="Thiago-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Thalita-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thalita-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thalita-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 -->
