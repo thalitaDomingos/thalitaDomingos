@@ -31,3 +31,6 @@
 
   
 -->
+
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/thalitaDomingos/count.svg" /></p>
